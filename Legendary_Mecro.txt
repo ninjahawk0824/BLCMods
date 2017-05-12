@@ -1,4 +1,15 @@
 #######
+This class mod is in alpha
+//Com made by ninjahawk0824
+
+//Problems with this com
+//skills don't display
+//skills are not getting boost's
+//Ui is not showing
+
+// any help,tips,advice is always welcomed but not needed
+
+
 #######
 
 
